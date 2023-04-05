@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mineblock.crowd</title>
+</head>
+<style>
+html{background-color: black;}
+#h1{-webkit-text-fill-color: black;}
+#h1{background-color: yellow;}
+#h1{text-align: center;}
+#p1{-webkit-text-fill-color: white;}
+#p1{text-align: center;}
+#p2{-webkit-text-fill-color: white;}
+#p2{text-align: center;}
+#img{display: block;
+    margin-left: auto;
+    margin-right: auto;}
+
+</style>
+
+<body>
+    <h1 id="h1">hello world</h1>
+    <p  id="p1">Wellcome to my mineblock.corwd website </p>
+    <p  id="p2">...we provide information or more things:like=links,news,etc...</p>
+    <h1 id="h1">story of 3-cows and 1-lion</h1>
+    <p id="p2">Once, three cows lived in a green and fresh pasture near a forest: a white cow, a black cow and a reddish-brown cow. The cows were kind to each other. They used to graze in the meadow together and sleep near each other.
+
+        One day, a reddish-brown lion happened to take a stroll out of the forest onto the meadow. It was hungry and looking for a prey. On catching sight of the cows it became glad, but couldn't attack them, because they were together. So, the lion sat behind a boulder and patiently waited till the cows would separate from each other.
+        
+        However, the cows were too clever to separate from each other. They knew that if they were together, no predator could attack them. The lion lay in ambush nearby for two or three days. But the cows continued to remain together, and wouldn’t separate from each other. The lion became impatient. It thought of a plan. It went towards the cows, greeted them and said, “How are you my friends? Are you fine? I have been busy lately, so could not come and visit you. Today I made up my mind to pay you a visit.”
+        
+        The reddish-brown cow said, “Sir, your coming has really pleased us and brightened our pasture.”
+        
+        Both the white and the black cows were troubled by what their friend, the reddish-brown cow said, and were grieved at its thoughtlessness. They said to each other, “Why does the reddish-brown cow believe what the lion says?
+        
+        Doesn’t it know that lions seek other animals only to prey on them?”
+        
+        As the days passed by, the reddish-brown cow became more and more attached to the lion. The black cow and the white cow advised it against a friendship with the lion, but their efforts were in vain.One day, the lion said to the reddish-brown cow, “You know that the color of our bodies is dark and that the color of the body of the white cow is light. You also know that light color is the opposite of the dark color. It will be very good if I eat the white cow, so that there will be no difference among us any longer and we will be able to live together well.”The reddish-brown cow accepted the lion’s argument and started talking to the black cow to keep it busy, so that the lion could eat the white cow. The white cow was left alone and was killed, while the black and the reddish-brown cows were busy in idle talk.
+
+        Two or three days passed since the lion devoured the white cow. It became hungry again. It called the reddish-brown cow. The cow answered: “Yes sir!”
+        
+        The lion said, “The color of my body and the color of your body are both reddish-brown, and black does not go with our color. It will be very good if I eat the black cow, so that in this forest we all will be of the same color.” The reddish-brown cow accepted this argument and moved away from the black cow.
+        
+        The lion attacked and devoured the black cow soon. And as for the reddish-brown cow, it was so filled with joy that it didn’t know what to do. It roamed and grazed and said to itself, “It is only me who has the color of the lion.”
+        
+        A few days passed later, the lion was hungry again. It roared and said, “O the reddish-brown cow! Where are you?” The reddish-brown cow, shaking with fear, went forward and said, “Yes sir!”
+
+The lion said: “Today it is your turn. Get yourself ready, I am going to eat you.”
+
+The reddish-brown cow, with great fear and horror, said, “Why sir, I am your friend. I did whatever you asked me to do. Still why do you want to eat me?”
+
+The lion roared and said, “I have no friends. How is it possible that a lion makes friendship with a cow?”
+
+No matter how much the reddish-brown cow begged and entreated, the lion didn’t accept its words. Finally the cow said, “Mr. Lion, please allow me to cry out three times before you eat me.”
+
+The lion said, “Ok. Quickly, quickly!”
+
+The reddish-brown cow cried out, “I was eaten the very day the white cow was eaten. I was eaten the very day the black cow was eaten. I was eaten the very day I made friends with the lion.”
+
+The lion devoured the reddish-brown cow very quickly. Then it said to itself: “I have finished my job in this forest. Now I had better go to other forests.”
+
+Any group without unity will easily be destroyed.</p>
+<h1 id="h1"> live earth in space look like </h1>
+<img id="img" src="earth.jpg" image.earth>
+<br>
+<br>
+<br>
+<br>
+<h1 ID="h1">website creater : MUHAMMAD GOHAR </h1>
+</body>
+</html>
